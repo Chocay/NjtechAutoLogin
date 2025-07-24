@@ -38,8 +38,8 @@
 [Star]:     https://github.com/Chocay/NjtechAutoLogin/stargazers
 [Latest]:   https://github.com/Chocay/NjtechAutoLogin/releases/latest
 [WebSite]:  https://Chocay.github.io/NjtechAutoLogin/
-[CsdnBlog]: https://blog.csdn.net/Alherkin
-[CsdnPrj]:  https://blog.csdn.net/Alherkin/article/details/120580798
+[CsdnBlog]: https://blog.csdn.net/Alpherkin
+[CsdnPrj]:  https://blog.csdn.net/Alpherkin/article/details/120580798
 [HomePage]: https://github.com/Chocay/NjtechAutoLogin/blob/Windows/docs/images/homepage.jpg
 [IOSQuick]: https://www.icloud.com/shortcuts/ecf46479c1a94404b23925cdc533e5ef
 
