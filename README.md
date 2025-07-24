@@ -20,27 +20,27 @@
 <!-- 简体中文 | [English](./README.en.md) -->
 
 [官网下载地址][WebSite]&emsp;&emsp;[CSDN项目地址][CsdnPrj]&emsp;&emsp;[联系及反馈][CsdnBlog]
-<!-- [![许可证](https://img.shields.io/github/license/AlpHerk/NjtechAutoLogin?color=F19D70)](LICENSE) -->
+<!-- [![许可证](https://img.shields.io/github/license/Chocay/NjtechAutoLogin?color=F19D70)](LICENSE) -->
 
-![仓库大小](https://img.shields.io/github/repo-size/AlpHerk/NjtechAutoLogin?color=5DBD88)
-[![最新版](https://img.shields.io/github/v/release/AlpHerk/NjtechAutoLogin)][Latest]
-![下载量](https://img.shields.io/github/downloads/AlpHerk/NjtechAutoLogin/total?color=5BAF3B)
-[![星标数](https://img.shields.io/github/stars/AlpHerk/NjtechAutoLogin?color=DCBC76)][Star]
+![仓库大小](https://img.shields.io/github/repo-size/Chocay/NjtechAutoLogin?color=5DBD88)
+[![最新版](https://img.shields.io/github/v/release/Chocay/NjtechAutoLogin)][Latest]
+![下载量](https://img.shields.io/github/downloads/Chocay/NjtechAutoLogin/total?color=5BAF3B)
+[![星标数](https://img.shields.io/github/stars/Chocay/NjtechAutoLogin?color=DCBC76)][Star]
 
 [![CSDN项目](https://img.shields.io/badge/CSDN-项目地址-blue.svg?color=F0AEA9)][CsdnPrj]
 [![联系反馈](https://img.shields.io/badge/联系反馈-无白Herk-blue.svg?color=E18774)][CsdnBlog]
 
 [![官网下载](https://img.shields.io/badge/官网-下载地址-blue.svg?color=00ADEE)][WebSite]
 
-![(●'◡'●)](https://github.com/AlpHerk/NjtechAutoLogin/blob/Windows/docs/images/homepage.jpg)
+![(●'◡'●)](https://github.com/Chocay/NjtechAutoLogin/blob/Windows/docs/images/homepage.jpg)
 
 
-[Star]:     https://github.com/AlpHerk/NjtechAutoLogin/stargazers
-[Latest]:   https://github.com/AlpHerk/NjtechAutoLogin/releases/latest
-[WebSite]:  https://alpherk.github.io/NjtechAutoLogin/
-[CsdnBlog]: https://blog.csdn.net/Alpherkin
-[CsdnPrj]:  https://blog.csdn.net/Alpherkin/article/details/120580798
-[HomePage]: https://github.com/AlpHerk/NjtechAutoLogin/blob/Windows/docs/images/homepage.jpg
+[Star]:     https://github.com/Chocay/NjtechAutoLogin/stargazers
+[Latest]:   https://github.com/Chocay/NjtechAutoLogin/releases/latest
+[WebSite]:  https://Chocay.github.io/NjtechAutoLogin/
+[CsdnBlog]: https://blog.csdn.net/Chocayin
+[CsdnPrj]:  https://blog.csdn.net/Chocayin/article/details/120580798
+[HomePage]: https://github.com/Chocay/NjtechAutoLogin/blob/Windows/docs/images/homepage.jpg
 [IOSQuick]: https://www.icloud.com/shortcuts/ecf46479c1a94404b23925cdc533e5ef
 
 </div>
